@@ -94,7 +94,6 @@ public class ScheduleServiceImpl implements ScheduleService {
                     .memberId(plan.getMember().getId())
                     .statusCode(Long.valueOf(plan.getStatusCode().getCode().getValue()))
                     .title(plan.getTitle())
-                    .content(plan.getContent())
                     .build();
 
             scheduleDetailPlanResponseDtos.add(scheduleDetailPlanResponseDto);
