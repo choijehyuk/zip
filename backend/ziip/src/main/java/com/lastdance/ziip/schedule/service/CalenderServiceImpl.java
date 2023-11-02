@@ -164,7 +164,7 @@ public class CalenderServiceImpl implements CalenderService {
                 .memberId(plan.getMember().getId())
                 .statusCode(plan.getStatusCode().getId())
                 .title(plan.getTitle())
-                .content(plan.getContent())
+//                .content(plan.getContent())
                 .build();
     }
 
