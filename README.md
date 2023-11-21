@@ -1193,7 +1193,7 @@
 <div align="center">
   <br />
   넣을 예정
-  <img src="./etc/Readme_images/시스템아키텍처.png" width="80%"/>
+  <img src="https://github.com/choijehyuk/zip/assets/90392777/1806eff1-8702-4666-93e3-1e6b5ada8241" width="80%"/>
   <br />
 </div>
 
