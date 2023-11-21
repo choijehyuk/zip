@@ -1318,6 +1318,6 @@
 - [요구사항 명세서](https://lovely-airedale-528.notion.site/39be614ff3eb4ea9b0f1c499a90ccd0e?pvs=4)
 - [erd](./etc/zipErd.png)
 - [api 연동 규격서](https://lovely-airedale-528.notion.site/API-515635c21ca740dca1744be64950aa7f?pvs=4)
-- [목업](./etc/Readme_images/목업.png)
+- [목업](./etc/etc/피그마.png)
 - [포팅메뉴얼](https://lovely-airedale-528.notion.site/0b427b0df600452e80984d3e874e0461?pvs=4)
 - [발표 자료](./etc/Docs/발표자료.pdf)
